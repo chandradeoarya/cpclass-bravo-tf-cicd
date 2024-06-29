@@ -77,7 +77,7 @@ resource "aws_security_group" "ec2OneSG" {
   }
 
   tags = {
-    Name = "ec2OneSG"
+    Name = "ec2OneSG-new"
   }
 }
 
